@@ -5,7 +5,7 @@ This should be my last book of my life.
 
 2020-10-20 
 
-第零章：
+开篇：
 女儿，我最怕的就是在我离开这个世界之前，除了钱之外，竟然没有给你留下任何其它东西。
 
 第一章：天地人
@@ -32,3 +32,5 @@ This should be my last book of my life.
 
 
 第五章 哲学
+
+尾声：我的遗嘱
