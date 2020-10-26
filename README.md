@@ -42,6 +42,8 @@ This should be my last book of my life.
 思考
 翻墙
 
+
+
 第四章 社会
 
 社会构成
@@ -56,8 +58,9 @@ This should be my last book of my life.
 
 第六章 你爸爸的一生
 
+第7章 推荐的书籍，网站，人物
 
-第五章 哲学和宗教
+第8章 哲学和宗教
 看山是山，看山不是山，看山还是山，去改变山，去造山
 信仰，邪教。
 爱与恨
